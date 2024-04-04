@@ -14,5 +14,6 @@ public class LoginUITest
 	public void applicationDescriptionTest()
 	{
 		System.out.println("App info");
+		System.out.println("");
 	}
 }
